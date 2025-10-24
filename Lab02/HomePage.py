@@ -3,12 +3,6 @@
 
 # Import Streamlit
 import streamlit as st
-import json
-
-with open("data.json", "r") as f:
-    data = json.load(f)
-
-print(data["chart_title"])
 
 
 # st.set_page_config() is used to configure the page's appearance in the browser tab.
