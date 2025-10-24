@@ -1,0 +1,33 @@
+{
+    "chart_title": "Hours Spent on Social Media Per Day",
+    "data_points": [
+        {
+            "label": "Monday",
+            "value": 2
+        },
+        {
+            "label": "Tuesday",
+            "value": 1.5
+        },
+        {
+            "label": "Wednesday",
+            "value": 2.5
+        },
+        {
+            "label": "Thursday",
+            "value": 1
+        },
+        {
+            "label": "Friday",
+            "value": 3
+        },
+        {
+            "label": "Saturday",
+            "value": 4.5
+        },
+        {
+            "label": "Sunday",
+            "value": 3.5
+        }
+    ]
+}
